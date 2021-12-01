@@ -3,8 +3,8 @@ This repository contains four projects I have written during my first ten weeks
 of learning C++ as assignments for the Dutch-taught course 
 'Programming Methods'. Due to the academic nature of these projects, there were
 some rules we had to abide by, such as what we should and should not check for 
-regarding user-input, which header files and (member) functions we were allowed
- to use.
+regarding user-input and which header files and (member) functions we were 
+allowed to use.
 
 The assignments that are placed within this repository are exact copies of the 
 assignments I handed in, however they are stripped of any personal, identifying 
