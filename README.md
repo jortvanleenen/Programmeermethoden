@@ -2,9 +2,9 @@
 This repository contains four projects I have written during my first ten weeks
 of learning C++ as assignments for the Dutch-taught course 
 'Programming Methods'. Due to the academic nature of these projects, there were
-some rules we had to abide by, such as not including any header files not
-already included, making use of Dutch in identifier naming and documentation, 
-placing 'using namespace std', et cetera.
+some rules we had to abide by, such as what we should and should not check for 
+regarding user-input, which header files and (member) functions we were allowed
+ to use.
 
 The assignments that are placed within this repository are exact copies of the 
 assignments I handed in, however they are stripped of any personal, identifying 
@@ -32,7 +32,7 @@ steps a compiler would also do, e.g. removing commentation, fixing indentation,
 et cetera. It was our first time making use of self-written functions and 
 working with file i/o.
 
-## Assignment 3 (date: 16/11/2021, Grade: ?/10)
+## Assignment 3 (date: 16/11/2021, Grade: 6.5/10)
 For this assignment, we had to code a visual representation of Conway's 'Game of
 Life' by making use of the command-line. It was our first time using arrays and 
 OOP-related principles.
