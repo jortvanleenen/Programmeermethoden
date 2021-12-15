@@ -26,20 +26,29 @@ questions.
 It then asks either a mathematical or historical question and bases its decision
 of approval or dismissal on whether the end-user answered those correctly.
 
+_Placed in Dutch, will not be translated._
+
 ## Assignment 2 (Date: 16/10/2021, Grade: 9.5/10)
 For this assignment, we had to convert an input code file while doing various 
 steps a compiler would also do, e.g. removing commentation, fixing indentation, 
 et cetera. It was our first time making use of self-written functions and 
 working with file i/o.
 
+_Placed in Dutch, will not be translated._
+
 ## Assignment 3 (date: 16/11/2021, Grade: 6.5/10)
 For this assignment, we had to code a visual representation of Conway's 'Game of
 Life' by making use of the command-line. It was our first time using arrays and 
 OOP-related principles.
 
-## Assignment 4 (Date: unknown, Grade ?/10)
-Coffeesweeper (minesweeper but with coffee cups)
+_Placed in English, has been translated from Dutch._
 
-To be placed.
+## Assignment 4 (Date: 14/12/2021, Grade ?/10)
+For this assignment, we had to code a visual representation of Coffeesweeper,
+a more kid-friendly version of Minesweeper, as its mines were replaced by Coffee
+cups! It was our first time making use of pointers and Valgrind (through WSL) 
+to check for memory leaks and related issues with dynamically allocated memory.
+
+_Placed in Dutch, will be translated to English._
 # License
 All assignments within this repository are submitted to the GNU AGPLv3 license, in short indicating that any code within this repository may not be stripped of its copyright notices/commentation and may also not be used in closed-source applications or programs. For a full description of this type of license, please see the LICENSE file.
