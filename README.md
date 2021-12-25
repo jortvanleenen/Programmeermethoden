@@ -41,9 +41,12 @@ For this assignment, we had to code a visual representation of Conway's 'Game of
 Life' by making use of the command-line. It was our first time using arrays and 
 OOP-related principles.
 
+One point was subtracted from the grade due to us missing the deadline of the 
+assignment.
+
 _Placed in English, has been translated from Dutch._
 
-## Assignment 4 (Date: 14/12/2021, Grade ?/10)
+## Assignment 4 (Date: 14/12/2021, Grade 9.5/10)
 For this assignment, we had to code a visual representation of Coffeesweeper,
 a more kid-friendly version of Minesweeper, as its mines were replaced by Coffee
 cups! It was our first time making use of pointers and Valgrind (through WSL) 
